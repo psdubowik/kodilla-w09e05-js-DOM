@@ -1,0 +1,23 @@
+{
+  "name": "kodillaFE_week09ex05_js_DOM",
+  "version": "1.0.0",
+  "description": "DOM structure in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psdubowik/kodilla-w09e05-js-DOM.git"
+  },
+  "keywords": [
+    "js",
+    "DOM"
+  ],
+  "author": "PSD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psdubowik/kodilla-w09e05-js-DOM/issues"
+  },
+  "homepage": "https://github.com/psdubowik/kodilla-w09e05-js-DOM#readme"
+}
